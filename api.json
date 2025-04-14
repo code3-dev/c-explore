@@ -1,6 +1,12 @@
 [
     {
         "type": "video",
+        "src": "https://code3-dev.github.io/c-explore/v/git.mp4",
+        "description": "فیلم Battle of Jangsari\nتاریخ انتشار: 2019",
+        "link": "https://cinemaplus-app.vercel.app/share?t=QmF0dGxlIG9mIEphbmdzYXJp&type=movie&id=5091"
+    },
+    {
+        "type": "video",
         "src": "https://code3-dev.github.io/c-explore/VID_20250414_140744_539.mp4",
         "description": "فیلم A Working Man 2025",
         "link": "https://cinemaplus-app.vercel.app/share?t=QSBXb3JraW5nIE1hbg==&type=movie&id=27951"
